@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdeyaOduor
 - 👀 I’m interested in web application development, cyber security and Data science.
 - 🌱 I’m currently learning Django, React, Node/Express, python, and vanilla JavaScript.
-- 💞️ I’m looking to collaborate on Slack(front-end and back-end technologies)
+- 💞️ I’m looking to collaborate on github (front-end and back-end technologies)
 - 📫 How to reach me @adeyadavid
 
 <!---
