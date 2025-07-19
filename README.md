@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdeyaOduor
-- 👀 I’m interested in cyber security, Data science, mobile and, web application development,.
+- 👀 I’m interested in cyber security, Data science, and mobile friendly web applications development,.
 - 🌱 I’m currently looking for opportunities working with: Django, React.js, Node/Express.js, and data science in python while building competency in android development with kotlin, gaming with C#, cloud computing and cyber security as a freelancer.
 - 💞️ I’m looking to collaborate on github (fullstack technologies)
 - 📫 How to reach me @adeyadavid
